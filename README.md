@@ -10,10 +10,9 @@
     Macro for the game Counter-Strike 2 using AutoHotkey
     <br />
     <p align="center">
-  <a href="https://kiyokosmacros.netlify.app" target="_blank">🌐 Website</a>
-  •
+      ─
   <a href="https://discord.gg/8xPc9x4Gus" target="_blank">☎️ Discord</a>
-  •
+      ─
 </p>
   </p>
 </div>
