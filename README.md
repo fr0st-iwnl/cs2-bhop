@@ -1,5 +1,5 @@
   <p align="center">
-    <img alt="License" src="https://img.shields.io/github/license/fr0st-iwnl/kiyokomacro?style=for-the-badge&logo=github&color=1A91FF"/>
+    <img alt="License" src="https://img.shields.io/github/license/fr0st-iwnl/cs2-bhop?style=for-the-badge&color=1A91FF"/>
   </p>
 
 <div id="top"></div>
